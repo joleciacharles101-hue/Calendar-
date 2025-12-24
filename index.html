@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Tabbed Calendar</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <div class="tabs">
+    <button onclick="showMonth('jan')">January</button>
+    <button onclick="showMonth('feb')">February</button>
+    <button onclick="showMonth('mar')">March</button>
+    <button onclick="showMonth('apr')">April</button>
+    <button onclick="showMonth('may')">May</button>
+    <button onclick="showMonth('jun')">June</button>
+    <button onclick="showMonth('jul')">July</button>
+    <button onclick="showMonth('aug')">August</button>
+    <button onclick="showMonth('sep')">September</button>
+    <button onclick="showMonth('oct')">October</button>
+    <button onclick="showMonth('nov')">November</button>
+    <button onclick="showMonth('dec')">December</button>
+  </div>
+
+  <div class="month-container">
+    <div id="jan" class="month active">January</div>
+    <div id="feb" class="month">February</div>
+    <div id="mar" class="month">March</div>
+    <div id="apr" class="month">April</div>
+    <div id="may" class="month">May</div>
+    <div id="jun" class="month">June</div>
+    <div id="jul" class="month">July</div>
+    <div id="aug" class="month">August</div>
+    <div id="sep" class="month">September</div>
+    <div id="oct" class="month">October</div>
+    <div id="nov" class="month">November</div>
+    <div id="dec" class="month">December</div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,2002 +1,502 @@
 [
-  {
-    "id": 1,
-    "quote": "Aesthetic motivational quote #1"
-  },
-  {
-    "id": 2,
-    "quote": "Aesthetic motivational quote #2"
-  },
-  {
-    "id": 3,
-    "quote": "Aesthetic motivational quote #3"
-  },
-  {
-    "id": 4,
-    "quote": "Aesthetic motivational quote #4"
-  },
-  {
-    "id": 5,
-    "quote": "Aesthetic motivational quote #5"
-  },
-  {
-    "id": 6,
-    "quote": "Aesthetic motivational quote #6"
-  },
-  {
-    "id": 7,
-    "quote": "Aesthetic motivational quote #7"
-  },
-  {
-    "id": 8,
-    "quote": "Aesthetic motivational quote #8"
-  },
-  {
-    "id": 9,
-    "quote": "Aesthetic motivational quote #9"
-  },
-  {
-    "id": 10,
-    "quote": "Aesthetic motivational quote #10"
-  },
-  {
-    "id": 11,
-    "quote": "Aesthetic motivational quote #11"
-  },
-  {
-    "id": 12,
-    "quote": "Aesthetic motivational quote #12"
-  },
-  {
-    "id": 13,
-    "quote": "Aesthetic motivational quote #13"
-  },
-  {
-    "id": 14,
-    "quote": "Aesthetic motivational quote #14"
-  },
-  {
-    "id": 15,
-    "quote": "Aesthetic motivational quote #15"
-  },
-  {
-    "id": 16,
-    "quote": "Aesthetic motivational quote #16"
-  },
-  {
-    "id": 17,
-    "quote": "Aesthetic motivational quote #17"
-  },
-  {
-    "id": 18,
-    "quote": "Aesthetic motivational quote #18"
-  },
-  {
-    "id": 19,
-    "quote": "Aesthetic motivational quote #19"
-  },
-  {
-    "id": 20,
-    "quote": "Aesthetic motivational quote #20"
-  },
-  {
-    "id": 21,
-    "quote": "Aesthetic motivational quote #21"
-  },
-  {
-    "id": 22,
-    "quote": "Aesthetic motivational quote #22"
-  },
-  {
-    "id": 23,
-    "quote": "Aesthetic motivational quote #23"
-  },
-  {
-    "id": 24,
-    "quote": "Aesthetic motivational quote #24"
-  },
-  {
-    "id": 25,
-    "quote": "Aesthetic motivational quote #25"
-  },
-  {
-    "id": 26,
-    "quote": "Aesthetic motivational quote #26"
-  },
-  {
-    "id": 27,
-    "quote": "Aesthetic motivational quote #27"
-  },
-  {
-    "id": 28,
-    "quote": "Aesthetic motivational quote #28"
-  },
-  {
-    "id": 29,
-    "quote": "Aesthetic motivational quote #29"
-  },
-  {
-    "id": 30,
-    "quote": "Aesthetic motivational quote #30"
-  },
-  {
-    "id": 31,
-    "quote": "Aesthetic motivational quote #31"
-  },
-  {
-    "id": 32,
-    "quote": "Aesthetic motivational quote #32"
-  },
-  {
-    "id": 33,
-    "quote": "Aesthetic motivational quote #33"
-  },
-  {
-    "id": 34,
-    "quote": "Aesthetic motivational quote #34"
-  },
-  {
-    "id": 35,
-    "quote": "Aesthetic motivational quote #35"
-  },
-  {
-    "id": 36,
-    "quote": "Aesthetic motivational quote #36"
-  },
-  {
-    "id": 37,
-    "quote": "Aesthetic motivational quote #37"
-  },
-  {
-    "id": 38,
-    "quote": "Aesthetic motivational quote #38"
-  },
-  {
-    "id": 39,
-    "quote": "Aesthetic motivational quote #39"
-  },
-  {
-    "id": 40,
-    "quote": "Aesthetic motivational quote #40"
-  },
-  {
-    "id": 41,
-    "quote": "Aesthetic motivational quote #41"
-  },
-  {
-    "id": 42,
-    "quote": "Aesthetic motivational quote #42"
-  },
-  {
-    "id": 43,
-    "quote": "Aesthetic motivational quote #43"
-  },
-  {
-    "id": 44,
-    "quote": "Aesthetic motivational quote #44"
-  },
-  {
-    "id": 45,
-    "quote": "Aesthetic motivational quote #45"
-  },
-  {
-    "id": 46,
-    "quote": "Aesthetic motivational quote #46"
-  },
-  {
-    "id": 47,
-    "quote": "Aesthetic motivational quote #47"
-  },
-  {
-    "id": 48,
-    "quote": "Aesthetic motivational quote #48"
-  },
-  {
-    "id": 49,
-    "quote": "Aesthetic motivational quote #49"
-  },
-  {
-    "id": 50,
-    "quote": "Aesthetic motivational quote #50"
-  },
-  {
-    "id": 51,
-    "quote": "Aesthetic motivational quote #51"
-  },
-  {
-    "id": 52,
-    "quote": "Aesthetic motivational quote #52"
-  },
-  {
-    "id": 53,
-    "quote": "Aesthetic motivational quote #53"
-  },
-  {
-    "id": 54,
-    "quote": "Aesthetic motivational quote #54"
-  },
-  {
-    "id": 55,
-    "quote": "Aesthetic motivational quote #55"
-  },
-  {
-    "id": 56,
-    "quote": "Aesthetic motivational quote #56"
-  },
-  {
-    "id": 57,
-    "quote": "Aesthetic motivational quote #57"
-  },
-  {
-    "id": 58,
-    "quote": "Aesthetic motivational quote #58"
-  },
-  {
-    "id": 59,
-    "quote": "Aesthetic motivational quote #59"
-  },
-  {
-    "id": 60,
-    "quote": "Aesthetic motivational quote #60"
-  },
-  {
-    "id": 61,
-    "quote": "Aesthetic motivational quote #61"
-  },
-  {
-    "id": 62,
-    "quote": "Aesthetic motivational quote #62"
-  },
-  {
-    "id": 63,
-    "quote": "Aesthetic motivational quote #63"
-  },
-  {
-    "id": 64,
-    "quote": "Aesthetic motivational quote #64"
-  },
-  {
-    "id": 65,
-    "quote": "Aesthetic motivational quote #65"
-  },
-  {
-    "id": 66,
-    "quote": "Aesthetic motivational quote #66"
-  },
-  {
-    "id": 67,
-    "quote": "Aesthetic motivational quote #67"
-  },
-  {
-    "id": 68,
-    "quote": "Aesthetic motivational quote #68"
-  },
-  {
-    "id": 69,
-    "quote": "Aesthetic motivational quote #69"
-  },
-  {
-    "id": 70,
-    "quote": "Aesthetic motivational quote #70"
-  },
-  {
-    "id": 71,
-    "quote": "Aesthetic motivational quote #71"
-  },
-  {
-    "id": 72,
-    "quote": "Aesthetic motivational quote #72"
-  },
-  {
-    "id": 73,
-    "quote": "Aesthetic motivational quote #73"
-  },
-  {
-    "id": 74,
-    "quote": "Aesthetic motivational quote #74"
-  },
-  {
-    "id": 75,
-    "quote": "Aesthetic motivational quote #75"
-  },
-  {
-    "id": 76,
-    "quote": "Aesthetic motivational quote #76"
-  },
-  {
-    "id": 77,
-    "quote": "Aesthetic motivational quote #77"
-  },
-  {
-    "id": 78,
-    "quote": "Aesthetic motivational quote #78"
-  },
-  {
-    "id": 79,
-    "quote": "Aesthetic motivational quote #79"
-  },
-  {
-    "id": 80,
-    "quote": "Aesthetic motivational quote #80"
-  },
-  {
-    "id": 81,
-    "quote": "Aesthetic motivational quote #81"
-  },
-  {
-    "id": 82,
-    "quote": "Aesthetic motivational quote #82"
-  },
-  {
-    "id": 83,
-    "quote": "Aesthetic motivational quote #83"
-  },
-  {
-    "id": 84,
-    "quote": "Aesthetic motivational quote #84"
-  },
-  {
-    "id": 85,
-    "quote": "Aesthetic motivational quote #85"
-  },
-  {
-    "id": 86,
-    "quote": "Aesthetic motivational quote #86"
-  },
-  {
-    "id": 87,
-    "quote": "Aesthetic motivational quote #87"
-  },
-  {
-    "id": 88,
-    "quote": "Aesthetic motivational quote #88"
-  },
-  {
-    "id": 89,
-    "quote": "Aesthetic motivational quote #89"
-  },
-  {
-    "id": 90,
-    "quote": "Aesthetic motivational quote #90"
-  },
-  {
-    "id": 91,
-    "quote": "Aesthetic motivational quote #91"
-  },
-  {
-    "id": 92,
-    "quote": "Aesthetic motivational quote #92"
-  },
-  {
-    "id": 93,
-    "quote": "Aesthetic motivational quote #93"
-  },
-  {
-    "id": 94,
-    "quote": "Aesthetic motivational quote #94"
-  },
-  {
-    "id": 95,
-    "quote": "Aesthetic motivational quote #95"
-  },
-  {
-    "id": 96,
-    "quote": "Aesthetic motivational quote #96"
-  },
-  {
-    "id": 97,
-    "quote": "Aesthetic motivational quote #97"
-  },
-  {
-    "id": 98,
-    "quote": "Aesthetic motivational quote #98"
-  },
-  {
-    "id": 99,
-    "quote": "Aesthetic motivational quote #99"
-  },
-  {
-    "id": 100,
-    "quote": "Aesthetic motivational quote #100"
-  },
-  {
-    "id": 101,
-    "quote": "Aesthetic motivational quote #101"
-  },
-  {
-    "id": 102,
-    "quote": "Aesthetic motivational quote #102"
-  },
-  {
-    "id": 103,
-    "quote": "Aesthetic motivational quote #103"
-  },
-  {
-    "id": 104,
-    "quote": "Aesthetic motivational quote #104"
-  },
-  {
-    "id": 105,
-    "quote": "Aesthetic motivational quote #105"
-  },
-  {
-    "id": 106,
-    "quote": "Aesthetic motivational quote #106"
-  },
-  {
-    "id": 107,
-    "quote": "Aesthetic motivational quote #107"
-  },
-  {
-    "id": 108,
-    "quote": "Aesthetic motivational quote #108"
-  },
-  {
-    "id": 109,
-    "quote": "Aesthetic motivational quote #109"
-  },
-  {
-    "id": 110,
-    "quote": "Aesthetic motivational quote #110"
-  },
-  {
-    "id": 111,
-    "quote": "Aesthetic motivational quote #111"
-  },
-  {
-    "id": 112,
-    "quote": "Aesthetic motivational quote #112"
-  },
-  {
-    "id": 113,
-    "quote": "Aesthetic motivational quote #113"
-  },
-  {
-    "id": 114,
-    "quote": "Aesthetic motivational quote #114"
-  },
-  {
-    "id": 115,
-    "quote": "Aesthetic motivational quote #115"
-  },
-  {
-    "id": 116,
-    "quote": "Aesthetic motivational quote #116"
-  },
-  {
-    "id": 117,
-    "quote": "Aesthetic motivational quote #117"
-  },
-  {
-    "id": 118,
-    "quote": "Aesthetic motivational quote #118"
-  },
-  {
-    "id": 119,
-    "quote": "Aesthetic motivational quote #119"
-  },
-  {
-    "id": 120,
-    "quote": "Aesthetic motivational quote #120"
-  },
-  {
-    "id": 121,
-    "quote": "Aesthetic motivational quote #121"
-  },
-  {
-    "id": 122,
-    "quote": "Aesthetic motivational quote #122"
-  },
-  {
-    "id": 123,
-    "quote": "Aesthetic motivational quote #123"
-  },
-  {
-    "id": 124,
-    "quote": "Aesthetic motivational quote #124"
-  },
-  {
-    "id": 125,
-    "quote": "Aesthetic motivational quote #125"
-  },
-  {
-    "id": 126,
-    "quote": "Aesthetic motivational quote #126"
-  },
-  {
-    "id": 127,
-    "quote": "Aesthetic motivational quote #127"
-  },
-  {
-    "id": 128,
-    "quote": "Aesthetic motivational quote #128"
-  },
-  {
-    "id": 129,
-    "quote": "Aesthetic motivational quote #129"
-  },
-  {
-    "id": 130,
-    "quote": "Aesthetic motivational quote #130"
-  },
-  {
-    "id": 131,
-    "quote": "Aesthetic motivational quote #131"
-  },
-  {
-    "id": 132,
-    "quote": "Aesthetic motivational quote #132"
-  },
-  {
-    "id": 133,
-    "quote": "Aesthetic motivational quote #133"
-  },
-  {
-    "id": 134,
-    "quote": "Aesthetic motivational quote #134"
-  },
-  {
-    "id": 135,
-    "quote": "Aesthetic motivational quote #135"
-  },
-  {
-    "id": 136,
-    "quote": "Aesthetic motivational quote #136"
-  },
-  {
-    "id": 137,
-    "quote": "Aesthetic motivational quote #137"
-  },
-  {
-    "id": 138,
-    "quote": "Aesthetic motivational quote #138"
-  },
-  {
-    "id": 139,
-    "quote": "Aesthetic motivational quote #139"
-  },
-  {
-    "id": 140,
-    "quote": "Aesthetic motivational quote #140"
-  },
-  {
-    "id": 141,
-    "quote": "Aesthetic motivational quote #141"
-  },
-  {
-    "id": 142,
-    "quote": "Aesthetic motivational quote #142"
-  },
-  {
-    "id": 143,
-    "quote": "Aesthetic motivational quote #143"
-  },
-  {
-    "id": 144,
-    "quote": "Aesthetic motivational quote #144"
-  },
-  {
-    "id": 145,
-    "quote": "Aesthetic motivational quote #145"
-  },
-  {
-    "id": 146,
-    "quote": "Aesthetic motivational quote #146"
-  },
-  {
-    "id": 147,
-    "quote": "Aesthetic motivational quote #147"
-  },
-  {
-    "id": 148,
-    "quote": "Aesthetic motivational quote #148"
-  },
-  {
-    "id": 149,
-    "quote": "Aesthetic motivational quote #149"
-  },
-  {
-    "id": 150,
-    "quote": "Aesthetic motivational quote #150"
-  },
-  {
-    "id": 151,
-    "quote": "Aesthetic motivational quote #151"
-  },
-  {
-    "id": 152,
-    "quote": "Aesthetic motivational quote #152"
-  },
-  {
-    "id": 153,
-    "quote": "Aesthetic motivational quote #153"
-  },
-  {
-    "id": 154,
-    "quote": "Aesthetic motivational quote #154"
-  },
-  {
-    "id": 155,
-    "quote": "Aesthetic motivational quote #155"
-  },
-  {
-    "id": 156,
-    "quote": "Aesthetic motivational quote #156"
-  },
-  {
-    "id": 157,
-    "quote": "Aesthetic motivational quote #157"
-  },
-  {
-    "id": 158,
-    "quote": "Aesthetic motivational quote #158"
-  },
-  {
-    "id": 159,
-    "quote": "Aesthetic motivational quote #159"
-  },
-  {
-    "id": 160,
-    "quote": "Aesthetic motivational quote #160"
-  },
-  {
-    "id": 161,
-    "quote": "Aesthetic motivational quote #161"
-  },
-  {
-    "id": 162,
-    "quote": "Aesthetic motivational quote #162"
-  },
-  {
-    "id": 163,
-    "quote": "Aesthetic motivational quote #163"
-  },
-  {
-    "id": 164,
-    "quote": "Aesthetic motivational quote #164"
-  },
-  {
-    "id": 165,
-    "quote": "Aesthetic motivational quote #165"
-  },
-  {
-    "id": 166,
-    "quote": "Aesthetic motivational quote #166"
-  },
-  {
-    "id": 167,
-    "quote": "Aesthetic motivational quote #167"
-  },
-  {
-    "id": 168,
-    "quote": "Aesthetic motivational quote #168"
-  },
-  {
-    "id": 169,
-    "quote": "Aesthetic motivational quote #169"
-  },
-  {
-    "id": 170,
-    "quote": "Aesthetic motivational quote #170"
-  },
-  {
-    "id": 171,
-    "quote": "Aesthetic motivational quote #171"
-  },
-  {
-    "id": 172,
-    "quote": "Aesthetic motivational quote #172"
-  },
-  {
-    "id": 173,
-    "quote": "Aesthetic motivational quote #173"
-  },
-  {
-    "id": 174,
-    "quote": "Aesthetic motivational quote #174"
-  },
-  {
-    "id": 175,
-    "quote": "Aesthetic motivational quote #175"
-  },
-  {
-    "id": 176,
-    "quote": "Aesthetic motivational quote #176"
-  },
-  {
-    "id": 177,
-    "quote": "Aesthetic motivational quote #177"
-  },
-  {
-    "id": 178,
-    "quote": "Aesthetic motivational quote #178"
-  },
-  {
-    "id": 179,
-    "quote": "Aesthetic motivational quote #179"
-  },
-  {
-    "id": 180,
-    "quote": "Aesthetic motivational quote #180"
-  },
-  {
-    "id": 181,
-    "quote": "Aesthetic motivational quote #181"
-  },
-  {
-    "id": 182,
-    "quote": "Aesthetic motivational quote #182"
-  },
-  {
-    "id": 183,
-    "quote": "Aesthetic motivational quote #183"
-  },
-  {
-    "id": 184,
-    "quote": "Aesthetic motivational quote #184"
-  },
-  {
-    "id": 185,
-    "quote": "Aesthetic motivational quote #185"
-  },
-  {
-    "id": 186,
-    "quote": "Aesthetic motivational quote #186"
-  },
-  {
-    "id": 187,
-    "quote": "Aesthetic motivational quote #187"
-  },
-  {
-    "id": 188,
-    "quote": "Aesthetic motivational quote #188"
-  },
-  {
-    "id": 189,
-    "quote": "Aesthetic motivational quote #189"
-  },
-  {
-    "id": 190,
-    "quote": "Aesthetic motivational quote #190"
-  },
-  {
-    "id": 191,
-    "quote": "Aesthetic motivational quote #191"
-  },
-  {
-    "id": 192,
-    "quote": "Aesthetic motivational quote #192"
-  },
-  {
-    "id": 193,
-    "quote": "Aesthetic motivational quote #193"
-  },
-  {
-    "id": 194,
-    "quote": "Aesthetic motivational quote #194"
-  },
-  {
-    "id": 195,
-    "quote": "Aesthetic motivational quote #195"
-  },
-  {
-    "id": 196,
-    "quote": "Aesthetic motivational quote #196"
-  },
-  {
-    "id": 197,
-    "quote": "Aesthetic motivational quote #197"
-  },
-  {
-    "id": 198,
-    "quote": "Aesthetic motivational quote #198"
-  },
-  {
-    "id": 199,
-    "quote": "Aesthetic motivational quote #199"
-  },
-  {
-    "id": 200,
-    "quote": "Aesthetic motivational quote #200"
-  },
-  {
-    "id": 201,
-    "quote": "Aesthetic motivational quote #201"
-  },
-  {
-    "id": 202,
-    "quote": "Aesthetic motivational quote #202"
-  },
-  {
-    "id": 203,
-    "quote": "Aesthetic motivational quote #203"
-  },
-  {
-    "id": 204,
-    "quote": "Aesthetic motivational quote #204"
-  },
-  {
-    "id": 205,
-    "quote": "Aesthetic motivational quote #205"
-  },
-  {
-    "id": 206,
-    "quote": "Aesthetic motivational quote #206"
-  },
-  {
-    "id": 207,
-    "quote": "Aesthetic motivational quote #207"
-  },
-  {
-    "id": 208,
-    "quote": "Aesthetic motivational quote #208"
-  },
-  {
-    "id": 209,
-    "quote": "Aesthetic motivational quote #209"
-  },
-  {
-    "id": 210,
-    "quote": "Aesthetic motivational quote #210"
-  },
-  {
-    "id": 211,
-    "quote": "Aesthetic motivational quote #211"
-  },
-  {
-    "id": 212,
-    "quote": "Aesthetic motivational quote #212"
-  },
-  {
-    "id": 213,
-    "quote": "Aesthetic motivational quote #213"
-  },
-  {
-    "id": 214,
-    "quote": "Aesthetic motivational quote #214"
-  },
-  {
-    "id": 215,
-    "quote": "Aesthetic motivational quote #215"
-  },
-  {
-    "id": 216,
-    "quote": "Aesthetic motivational quote #216"
-  },
-  {
-    "id": 217,
-    "quote": "Aesthetic motivational quote #217"
-  },
-  {
-    "id": 218,
-    "quote": "Aesthetic motivational quote #218"
-  },
-  {
-    "id": 219,
-    "quote": "Aesthetic motivational quote #219"
-  },
-  {
-    "id": 220,
-    "quote": "Aesthetic motivational quote #220"
-  },
-  {
-    "id": 221,
-    "quote": "Aesthetic motivational quote #221"
-  },
-  {
-    "id": 222,
-    "quote": "Aesthetic motivational quote #222"
-  },
-  {
-    "id": 223,
-    "quote": "Aesthetic motivational quote #223"
-  },
-  {
-    "id": 224,
-    "quote": "Aesthetic motivational quote #224"
-  },
-  {
-    "id": 225,
-    "quote": "Aesthetic motivational quote #225"
-  },
-  {
-    "id": 226,
-    "quote": "Aesthetic motivational quote #226"
-  },
-  {
-    "id": 227,
-    "quote": "Aesthetic motivational quote #227"
-  },
-  {
-    "id": 228,
-    "quote": "Aesthetic motivational quote #228"
-  },
-  {
-    "id": 229,
-    "quote": "Aesthetic motivational quote #229"
-  },
-  {
-    "id": 230,
-    "quote": "Aesthetic motivational quote #230"
-  },
-  {
-    "id": 231,
-    "quote": "Aesthetic motivational quote #231"
-  },
-  {
-    "id": 232,
-    "quote": "Aesthetic motivational quote #232"
-  },
-  {
-    "id": 233,
-    "quote": "Aesthetic motivational quote #233"
-  },
-  {
-    "id": 234,
-    "quote": "Aesthetic motivational quote #234"
-  },
-  {
-    "id": 235,
-    "quote": "Aesthetic motivational quote #235"
-  },
-  {
-    "id": 236,
-    "quote": "Aesthetic motivational quote #236"
-  },
-  {
-    "id": 237,
-    "quote": "Aesthetic motivational quote #237"
-  },
-  {
-    "id": 238,
-    "quote": "Aesthetic motivational quote #238"
-  },
-  {
-    "id": 239,
-    "quote": "Aesthetic motivational quote #239"
-  },
-  {
-    "id": 240,
-    "quote": "Aesthetic motivational quote #240"
-  },
-  {
-    "id": 241,
-    "quote": "Aesthetic motivational quote #241"
-  },
-  {
-    "id": 242,
-    "quote": "Aesthetic motivational quote #242"
-  },
-  {
-    "id": 243,
-    "quote": "Aesthetic motivational quote #243"
-  },
-  {
-    "id": 244,
-    "quote": "Aesthetic motivational quote #244"
-  },
-  {
-    "id": 245,
-    "quote": "Aesthetic motivational quote #245"
-  },
-  {
-    "id": 246,
-    "quote": "Aesthetic motivational quote #246"
-  },
-  {
-    "id": 247,
-    "quote": "Aesthetic motivational quote #247"
-  },
-  {
-    "id": 248,
-    "quote": "Aesthetic motivational quote #248"
-  },
-  {
-    "id": 249,
-    "quote": "Aesthetic motivational quote #249"
-  },
-  {
-    "id": 250,
-    "quote": "Aesthetic motivational quote #250"
-  },
-  {
-    "id": 251,
-    "quote": "Aesthetic motivational quote #251"
-  },
-  {
-    "id": 252,
-    "quote": "Aesthetic motivational quote #252"
-  },
-  {
-    "id": 253,
-    "quote": "Aesthetic motivational quote #253"
-  },
-  {
-    "id": 254,
-    "quote": "Aesthetic motivational quote #254"
-  },
-  {
-    "id": 255,
-    "quote": "Aesthetic motivational quote #255"
-  },
-  {
-    "id": 256,
-    "quote": "Aesthetic motivational quote #256"
-  },
-  {
-    "id": 257,
-    "quote": "Aesthetic motivational quote #257"
-  },
-  {
-    "id": 258,
-    "quote": "Aesthetic motivational quote #258"
-  },
-  {
-    "id": 259,
-    "quote": "Aesthetic motivational quote #259"
-  },
-  {
-    "id": 260,
-    "quote": "Aesthetic motivational quote #260"
-  },
-  {
-    "id": 261,
-    "quote": "Aesthetic motivational quote #261"
-  },
-  {
-    "id": 262,
-    "quote": "Aesthetic motivational quote #262"
-  },
-  {
-    "id": 263,
-    "quote": "Aesthetic motivational quote #263"
-  },
-  {
-    "id": 264,
-    "quote": "Aesthetic motivational quote #264"
-  },
-  {
-    "id": 265,
-    "quote": "Aesthetic motivational quote #265"
-  },
-  {
-    "id": 266,
-    "quote": "Aesthetic motivational quote #266"
-  },
-  {
-    "id": 267,
-    "quote": "Aesthetic motivational quote #267"
-  },
-  {
-    "id": 268,
-    "quote": "Aesthetic motivational quote #268"
-  },
-  {
-    "id": 269,
-    "quote": "Aesthetic motivational quote #269"
-  },
-  {
-    "id": 270,
-    "quote": "Aesthetic motivational quote #270"
-  },
-  {
-    "id": 271,
-    "quote": "Aesthetic motivational quote #271"
-  },
-  {
-    "id": 272,
-    "quote": "Aesthetic motivational quote #272"
-  },
-  {
-    "id": 273,
-    "quote": "Aesthetic motivational quote #273"
-  },
-  {
-    "id": 274,
-    "quote": "Aesthetic motivational quote #274"
-  },
-  {
-    "id": 275,
-    "quote": "Aesthetic motivational quote #275"
-  },
-  {
-    "id": 276,
-    "quote": "Aesthetic motivational quote #276"
-  },
-  {
-    "id": 277,
-    "quote": "Aesthetic motivational quote #277"
-  },
-  {
-    "id": 278,
-    "quote": "Aesthetic motivational quote #278"
-  },
-  {
-    "id": 279,
-    "quote": "Aesthetic motivational quote #279"
-  },
-  {
-    "id": 280,
-    "quote": "Aesthetic motivational quote #280"
-  },
-  {
-    "id": 281,
-    "quote": "Aesthetic motivational quote #281"
-  },
-  {
-    "id": 282,
-    "quote": "Aesthetic motivational quote #282"
-  },
-  {
-    "id": 283,
-    "quote": "Aesthetic motivational quote #283"
-  },
-  {
-    "id": 284,
-    "quote": "Aesthetic motivational quote #284"
-  },
-  {
-    "id": 285,
-    "quote": "Aesthetic motivational quote #285"
-  },
-  {
-    "id": 286,
-    "quote": "Aesthetic motivational quote #286"
-  },
-  {
-    "id": 287,
-    "quote": "Aesthetic motivational quote #287"
-  },
-  {
-    "id": 288,
-    "quote": "Aesthetic motivational quote #288"
-  },
-  {
-    "id": 289,
-    "quote": "Aesthetic motivational quote #289"
-  },
-  {
-    "id": 290,
-    "quote": "Aesthetic motivational quote #290"
-  },
-  {
-    "id": 291,
-    "quote": "Aesthetic motivational quote #291"
-  },
-  {
-    "id": 292,
-    "quote": "Aesthetic motivational quote #292"
-  },
-  {
-    "id": 293,
-    "quote": "Aesthetic motivational quote #293"
-  },
-  {
-    "id": 294,
-    "quote": "Aesthetic motivational quote #294"
-  },
-  {
-    "id": 295,
-    "quote": "Aesthetic motivational quote #295"
-  },
-  {
-    "id": 296,
-    "quote": "Aesthetic motivational quote #296"
-  },
-  {
-    "id": 297,
-    "quote": "Aesthetic motivational quote #297"
-  },
-  {
-    "id": 298,
-    "quote": "Aesthetic motivational quote #298"
-  },
-  {
-    "id": 299,
-    "quote": "Aesthetic motivational quote #299"
-  },
-  {
-    "id": 300,
-    "quote": "Aesthetic motivational quote #300"
-  },
-  {
-    "id": 301,
-    "quote": "Aesthetic motivational quote #301"
-  },
-  {
-    "id": 302,
-    "quote": "Aesthetic motivational quote #302"
-  },
-  {
-    "id": 303,
-    "quote": "Aesthetic motivational quote #303"
-  },
-  {
-    "id": 304,
-    "quote": "Aesthetic motivational quote #304"
-  },
-  {
-    "id": 305,
-    "quote": "Aesthetic motivational quote #305"
-  },
-  {
-    "id": 306,
-    "quote": "Aesthetic motivational quote #306"
-  },
-  {
-    "id": 307,
-    "quote": "Aesthetic motivational quote #307"
-  },
-  {
-    "id": 308,
-    "quote": "Aesthetic motivational quote #308"
-  },
-  {
-    "id": 309,
-    "quote": "Aesthetic motivational quote #309"
-  },
-  {
-    "id": 310,
-    "quote": "Aesthetic motivational quote #310"
-  },
-  {
-    "id": 311,
-    "quote": "Aesthetic motivational quote #311"
-  },
-  {
-    "id": 312,
-    "quote": "Aesthetic motivational quote #312"
-  },
-  {
-    "id": 313,
-    "quote": "Aesthetic motivational quote #313"
-  },
-  {
-    "id": 314,
-    "quote": "Aesthetic motivational quote #314"
-  },
-  {
-    "id": 315,
-    "quote": "Aesthetic motivational quote #315"
-  },
-  {
-    "id": 316,
-    "quote": "Aesthetic motivational quote #316"
-  },
-  {
-    "id": 317,
-    "quote": "Aesthetic motivational quote #317"
-  },
-  {
-    "id": 318,
-    "quote": "Aesthetic motivational quote #318"
-  },
-  {
-    "id": 319,
-    "quote": "Aesthetic motivational quote #319"
-  },
-  {
-    "id": 320,
-    "quote": "Aesthetic motivational quote #320"
-  },
-  {
-    "id": 321,
-    "quote": "Aesthetic motivational quote #321"
-  },
-  {
-    "id": 322,
-    "quote": "Aesthetic motivational quote #322"
-  },
-  {
-    "id": 323,
-    "quote": "Aesthetic motivational quote #323"
-  },
-  {
-    "id": 324,
-    "quote": "Aesthetic motivational quote #324"
-  },
-  {
-    "id": 325,
-    "quote": "Aesthetic motivational quote #325"
-  },
-  {
-    "id": 326,
-    "quote": "Aesthetic motivational quote #326"
-  },
-  {
-    "id": 327,
-    "quote": "Aesthetic motivational quote #327"
-  },
-  {
-    "id": 328,
-    "quote": "Aesthetic motivational quote #328"
-  },
-  {
-    "id": 329,
-    "quote": "Aesthetic motivational quote #329"
-  },
-  {
-    "id": 330,
-    "quote": "Aesthetic motivational quote #330"
-  },
-  {
-    "id": 331,
-    "quote": "Aesthetic motivational quote #331"
-  },
-  {
-    "id": 332,
-    "quote": "Aesthetic motivational quote #332"
-  },
-  {
-    "id": 333,
-    "quote": "Aesthetic motivational quote #333"
-  },
-  {
-    "id": 334,
-    "quote": "Aesthetic motivational quote #334"
-  },
-  {
-    "id": 335,
-    "quote": "Aesthetic motivational quote #335"
-  },
-  {
-    "id": 336,
-    "quote": "Aesthetic motivational quote #336"
-  },
-  {
-    "id": 337,
-    "quote": "Aesthetic motivational quote #337"
-  },
-  {
-    "id": 338,
-    "quote": "Aesthetic motivational quote #338"
-  },
-  {
-    "id": 339,
-    "quote": "Aesthetic motivational quote #339"
-  },
-  {
-    "id": 340,
-    "quote": "Aesthetic motivational quote #340"
-  },
-  {
-    "id": 341,
-    "quote": "Aesthetic motivational quote #341"
-  },
-  {
-    "id": 342,
-    "quote": "Aesthetic motivational quote #342"
-  },
-  {
-    "id": 343,
-    "quote": "Aesthetic motivational quote #343"
-  },
-  {
-    "id": 344,
-    "quote": "Aesthetic motivational quote #344"
-  },
-  {
-    "id": 345,
-    "quote": "Aesthetic motivational quote #345"
-  },
-  {
-    "id": 346,
-    "quote": "Aesthetic motivational quote #346"
-  },
-  {
-    "id": 347,
-    "quote": "Aesthetic motivational quote #347"
-  },
-  {
-    "id": 348,
-    "quote": "Aesthetic motivational quote #348"
-  },
-  {
-    "id": 349,
-    "quote": "Aesthetic motivational quote #349"
-  },
-  {
-    "id": 350,
-    "quote": "Aesthetic motivational quote #350"
-  },
-  {
-    "id": 351,
-    "quote": "Aesthetic motivational quote #351"
-  },
-  {
-    "id": 352,
-    "quote": "Aesthetic motivational quote #352"
-  },
-  {
-    "id": 353,
-    "quote": "Aesthetic motivational quote #353"
-  },
-  {
-    "id": 354,
-    "quote": "Aesthetic motivational quote #354"
-  },
-  {
-    "id": 355,
-    "quote": "Aesthetic motivational quote #355"
-  },
-  {
-    "id": 356,
-    "quote": "Aesthetic motivational quote #356"
-  },
-  {
-    "id": 357,
-    "quote": "Aesthetic motivational quote #357"
-  },
-  {
-    "id": 358,
-    "quote": "Aesthetic motivational quote #358"
-  },
-  {
-    "id": 359,
-    "quote": "Aesthetic motivational quote #359"
-  },
-  {
-    "id": 360,
-    "quote": "Aesthetic motivational quote #360"
-  },
-  {
-    "id": 361,
-    "quote": "Aesthetic motivational quote #361"
-  },
-  {
-    "id": 362,
-    "quote": "Aesthetic motivational quote #362"
-  },
-  {
-    "id": 363,
-    "quote": "Aesthetic motivational quote #363"
-  },
-  {
-    "id": 364,
-    "quote": "Aesthetic motivational quote #364"
-  },
-  {
-    "id": 365,
-    "quote": "Aesthetic motivational quote #365"
-  },
-  {
-    "id": 366,
-    "quote": "Aesthetic motivational quote #366"
-  },
-  {
-    "id": 367,
-    "quote": "Aesthetic motivational quote #367"
-  },
-  {
-    "id": 368,
-    "quote": "Aesthetic motivational quote #368"
-  },
-  {
-    "id": 369,
-    "quote": "Aesthetic motivational quote #369"
-  },
-  {
-    "id": 370,
-    "quote": "Aesthetic motivational quote #370"
-  },
-  {
-    "id": 371,
-    "quote": "Aesthetic motivational quote #371"
-  },
-  {
-    "id": 372,
-    "quote": "Aesthetic motivational quote #372"
-  },
-  {
-    "id": 373,
-    "quote": "Aesthetic motivational quote #373"
-  },
-  {
-    "id": 374,
-    "quote": "Aesthetic motivational quote #374"
-  },
-  {
-    "id": 375,
-    "quote": "Aesthetic motivational quote #375"
-  },
-  {
-    "id": 376,
-    "quote": "Aesthetic motivational quote #376"
-  },
-  {
-    "id": 377,
-    "quote": "Aesthetic motivational quote #377"
-  },
-  {
-    "id": 378,
-    "quote": "Aesthetic motivational quote #378"
-  },
-  {
-    "id": 379,
-    "quote": "Aesthetic motivational quote #379"
-  },
-  {
-    "id": 380,
-    "quote": "Aesthetic motivational quote #380"
-  },
-  {
-    "id": 381,
-    "quote": "Aesthetic motivational quote #381"
-  },
-  {
-    "id": 382,
-    "quote": "Aesthetic motivational quote #382"
-  },
-  {
-    "id": 383,
-    "quote": "Aesthetic motivational quote #383"
-  },
-  {
-    "id": 384,
-    "quote": "Aesthetic motivational quote #384"
-  },
-  {
-    "id": 385,
-    "quote": "Aesthetic motivational quote #385"
-  },
-  {
-    "id": 386,
-    "quote": "Aesthetic motivational quote #386"
-  },
-  {
-    "id": 387,
-    "quote": "Aesthetic motivational quote #387"
-  },
-  {
-    "id": 388,
-    "quote": "Aesthetic motivational quote #388"
-  },
-  {
-    "id": 389,
-    "quote": "Aesthetic motivational quote #389"
-  },
-  {
-    "id": 390,
-    "quote": "Aesthetic motivational quote #390"
-  },
-  {
-    "id": 391,
-    "quote": "Aesthetic motivational quote #391"
-  },
-  {
-    "id": 392,
-    "quote": "Aesthetic motivational quote #392"
-  },
-  {
-    "id": 393,
-    "quote": "Aesthetic motivational quote #393"
-  },
-  {
-    "id": 394,
-    "quote": "Aesthetic motivational quote #394"
-  },
-  {
-    "id": 395,
-    "quote": "Aesthetic motivational quote #395"
-  },
-  {
-    "id": 396,
-    "quote": "Aesthetic motivational quote #396"
-  },
-  {
-    "id": 397,
-    "quote": "Aesthetic motivational quote #397"
-  },
-  {
-    "id": 398,
-    "quote": "Aesthetic motivational quote #398"
-  },
-  {
-    "id": 399,
-    "quote": "Aesthetic motivational quote #399"
-  },
-  {
-    "id": 400,
-    "quote": "Aesthetic motivational quote #400"
-  },
-  {
-    "id": 401,
-    "quote": "Aesthetic motivational quote #401"
-  },
-  {
-    "id": 402,
-    "quote": "Aesthetic motivational quote #402"
-  },
-  {
-    "id": 403,
-    "quote": "Aesthetic motivational quote #403"
-  },
-  {
-    "id": 404,
-    "quote": "Aesthetic motivational quote #404"
-  },
-  {
-    "id": 405,
-    "quote": "Aesthetic motivational quote #405"
-  },
-  {
-    "id": 406,
-    "quote": "Aesthetic motivational quote #406"
-  },
-  {
-    "id": 407,
-    "quote": "Aesthetic motivational quote #407"
-  },
-  {
-    "id": 408,
-    "quote": "Aesthetic motivational quote #408"
-  },
-  {
-    "id": 409,
-    "quote": "Aesthetic motivational quote #409"
-  },
-  {
-    "id": 410,
-    "quote": "Aesthetic motivational quote #410"
-  },
-  {
-    "id": 411,
-    "quote": "Aesthetic motivational quote #411"
-  },
-  {
-    "id": 412,
-    "quote": "Aesthetic motivational quote #412"
-  },
-  {
-    "id": 413,
-    "quote": "Aesthetic motivational quote #413"
-  },
-  {
-    "id": 414,
-    "quote": "Aesthetic motivational quote #414"
-  },
-  {
-    "id": 415,
-    "quote": "Aesthetic motivational quote #415"
-  },
-  {
-    "id": 416,
-    "quote": "Aesthetic motivational quote #416"
-  },
-  {
-    "id": 417,
-    "quote": "Aesthetic motivational quote #417"
-  },
-  {
-    "id": 418,
-    "quote": "Aesthetic motivational quote #418"
-  },
-  {
-    "id": 419,
-    "quote": "Aesthetic motivational quote #419"
-  },
-  {
-    "id": 420,
-    "quote": "Aesthetic motivational quote #420"
-  },
-  {
-    "id": 421,
-    "quote": "Aesthetic motivational quote #421"
-  },
-  {
-    "id": 422,
-    "quote": "Aesthetic motivational quote #422"
-  },
-  {
-    "id": 423,
-    "quote": "Aesthetic motivational quote #423"
-  },
-  {
-    "id": 424,
-    "quote": "Aesthetic motivational quote #424"
-  },
-  {
-    "id": 425,
-    "quote": "Aesthetic motivational quote #425"
-  },
-  {
-    "id": 426,
-    "quote": "Aesthetic motivational quote #426"
-  },
-  {
-    "id": 427,
-    "quote": "Aesthetic motivational quote #427"
-  },
-  {
-    "id": 428,
-    "quote": "Aesthetic motivational quote #428"
-  },
-  {
-    "id": 429,
-    "quote": "Aesthetic motivational quote #429"
-  },
-  {
-    "id": 430,
-    "quote": "Aesthetic motivational quote #430"
-  },
-  {
-    "id": 431,
-    "quote": "Aesthetic motivational quote #431"
-  },
-  {
-    "id": 432,
-    "quote": "Aesthetic motivational quote #432"
-  },
-  {
-    "id": 433,
-    "quote": "Aesthetic motivational quote #433"
-  },
-  {
-    "id": 434,
-    "quote": "Aesthetic motivational quote #434"
-  },
-  {
-    "id": 435,
-    "quote": "Aesthetic motivational quote #435"
-  },
-  {
-    "id": 436,
-    "quote": "Aesthetic motivational quote #436"
-  },
-  {
-    "id": 437,
-    "quote": "Aesthetic motivational quote #437"
-  },
-  {
-    "id": 438,
-    "quote": "Aesthetic motivational quote #438"
-  },
-  {
-    "id": 439,
-    "quote": "Aesthetic motivational quote #439"
-  },
-  {
-    "id": 440,
-    "quote": "Aesthetic motivational quote #440"
-  },
-  {
-    "id": 441,
-    "quote": "Aesthetic motivational quote #441"
-  },
-  {
-    "id": 442,
-    "quote": "Aesthetic motivational quote #442"
-  },
-  {
-    "id": 443,
-    "quote": "Aesthetic motivational quote #443"
-  },
-  {
-    "id": 444,
-    "quote": "Aesthetic motivational quote #444"
-  },
-  {
-    "id": 445,
-    "quote": "Aesthetic motivational quote #445"
-  },
-  {
-    "id": 446,
-    "quote": "Aesthetic motivational quote #446"
-  },
-  {
-    "id": 447,
-    "quote": "Aesthetic motivational quote #447"
-  },
-  {
-    "id": 448,
-    "quote": "Aesthetic motivational quote #448"
-  },
-  {
-    "id": 449,
-    "quote": "Aesthetic motivational quote #449"
-  },
-  {
-    "id": 450,
-    "quote": "Aesthetic motivational quote #450"
-  },
-  {
-    "id": 451,
-    "quote": "Aesthetic motivational quote #451"
-  },
-  {
-    "id": 452,
-    "quote": "Aesthetic motivational quote #452"
-  },
-  {
-    "id": 453,
-    "quote": "Aesthetic motivational quote #453"
-  },
-  {
-    "id": 454,
-    "quote": "Aesthetic motivational quote #454"
-  },
-  {
-    "id": 455,
-    "quote": "Aesthetic motivational quote #455"
-  },
-  {
-    "id": 456,
-    "quote": "Aesthetic motivational quote #456"
-  },
-  {
-    "id": 457,
-    "quote": "Aesthetic motivational quote #457"
-  },
-  {
-    "id": 458,
-    "quote": "Aesthetic motivational quote #458"
-  },
-  {
-    "id": 459,
-    "quote": "Aesthetic motivational quote #459"
-  },
-  {
-    "id": 460,
-    "quote": "Aesthetic motivational quote #460"
-  },
-  {
-    "id": 461,
-    "quote": "Aesthetic motivational quote #461"
-  },
-  {
-    "id": 462,
-    "quote": "Aesthetic motivational quote #462"
-  },
-  {
-    "id": 463,
-    "quote": "Aesthetic motivational quote #463"
-  },
-  {
-    "id": 464,
-    "quote": "Aesthetic motivational quote #464"
-  },
-  {
-    "id": 465,
-    "quote": "Aesthetic motivational quote #465"
-  },
-  {
-    "id": 466,
-    "quote": "Aesthetic motivational quote #466"
-  },
-  {
-    "id": 467,
-    "quote": "Aesthetic motivational quote #467"
-  },
-  {
-    "id": 468,
-    "quote": "Aesthetic motivational quote #468"
-  },
-  {
-    "id": 469,
-    "quote": "Aesthetic motivational quote #469"
-  },
-  {
-    "id": 470,
-    "quote": "Aesthetic motivational quote #470"
-  },
-  {
-    "id": 471,
-    "quote": "Aesthetic motivational quote #471"
-  },
-  {
-    "id": 472,
-    "quote": "Aesthetic motivational quote #472"
-  },
-  {
-    "id": 473,
-    "quote": "Aesthetic motivational quote #473"
-  },
-  {
-    "id": 474,
-    "quote": "Aesthetic motivational quote #474"
-  },
-  {
-    "id": 475,
-    "quote": "Aesthetic motivational quote #475"
-  },
-  {
-    "id": 476,
-    "quote": "Aesthetic motivational quote #476"
-  },
-  {
-    "id": 477,
-    "quote": "Aesthetic motivational quote #477"
-  },
-  {
-    "id": 478,
-    "quote": "Aesthetic motivational quote #478"
-  },
-  {
-    "id": 479,
-    "quote": "Aesthetic motivational quote #479"
-  },
-  {
-    "id": 480,
-    "quote": "Aesthetic motivational quote #480"
-  },
-  {
-    "id": 481,
-    "quote": "Aesthetic motivational quote #481"
-  },
-  {
-    "id": 482,
-    "quote": "Aesthetic motivational quote #482"
-  },
-  {
-    "id": 483,
-    "quote": "Aesthetic motivational quote #483"
-  },
-  {
-    "id": 484,
-    "quote": "Aesthetic motivational quote #484"
-  },
-  {
-    "id": 485,
-    "quote": "Aesthetic motivational quote #485"
-  },
-  {
-    "id": 486,
-    "quote": "Aesthetic motivational quote #486"
-  },
-  {
-    "id": 487,
-    "quote": "Aesthetic motivational quote #487"
-  },
-  {
-    "id": 488,
-    "quote": "Aesthetic motivational quote #488"
-  },
-  {
-    "id": 489,
-    "quote": "Aesthetic motivational quote #489"
-  },
-  {
-    "id": 490,
-    "quote": "Aesthetic motivational quote #490"
-  },
-  {
-    "id": 491,
-    "quote": "Aesthetic motivational quote #491"
-  },
-  {
-    "id": 492,
-    "quote": "Aesthetic motivational quote #492"
-  },
-  {
-    "id": 493,
-    "quote": "Aesthetic motivational quote #493"
-  },
-  {
-    "id": 494,
-    "quote": "Aesthetic motivational quote #494"
-  },
-  {
-    "id": 495,
-    "quote": "Aesthetic motivational quote #495"
-  },
-  {
-    "id": 496,
-    "quote": "Aesthetic motivational quote #496"
-  },
-  {
-    "id": 497,
-    "quote": "Aesthetic motivational quote #497"
-  },
-  {
-    "id": 498,
-    "quote": "Aesthetic motivational quote #498"
-  },
-  {
-    "id": 499,
-    "quote": "Aesthetic motivational quote #499"
-  },
-  {
-    "id": 500,
-    "quote": "Aesthetic motivational quote #500"
-  }
+  { "id": 1, "quote": "Believe in yourself and all that you are." },
+  { "id": 2, "quote": "Every day is a fresh start. Embrace it." },
+  { "id": 3, "quote": "You are stronger than you think." },
+  { "id": 4, "quote": "Small steps lead to big changes." },
+  { "id": 5, "quote": "Happiness is found in the journey, not the destination." },
+  { "id": 6, "quote": "Trust the timing of your life." },
+  { "id": 7, "quote": "Do more of what makes your soul shine." },
+  { "id": 8, "quote": "Dream big, start small, act now." },
+  { "id": 9, "quote": "Your potential is limitless." },
+  { "id": 10, "quote": "Focus on progress, not perfection." },
+  { "id": 11, "quote": "Turn your setbacks into comebacks." },
+  { "id": 12, "quote": "Courage is knowing what not to fear." },
+  { "id": 13, "quote": "Choose joy, even in small moments." },
+  { "id": 14, "quote": "You are capable of amazing things." },
+  { "id": 15, "quote": "Let your light shine bright." },
+  { "id": 16, "quote": "Stay patient. Your time is coming." },
+  { "id": 17, "quote": "Progress, not perfection, wins the race." },
+  { "id": 18, "quote": "Be fearless in the pursuit of what sets your soul on fire." },
+  { "id": 19, "quote": "Your dreams are valid." },
+  { "id": 20, "quote": "Kindness is never wasted." },
+  { "id": 21, "quote": "Rise above the storm and you will find the sunshine." },
+  { "id": 22, "quote": "Hustle in silence, let success make the noise." },
+  { "id": 23, "quote": "Embrace the glorious mess that you are." },
+  { "id": 24, "quote": "Your vibe attracts your tribe." },
+  { "id": 25, "quote": "Small victories lead to big celebrations." },
+  { "id": 26, "quote": "Breathe. Reset. Begin again." },
+  { "id": 27, "quote": "Let go of what no longer serves you." },
+  { "id": 28, "quote": "Feed your focus, starve your fears." },
+  { "id": 29, "quote": "Slow down to speed up." },
+  { "id": 30, "quote": "Rest is a form of self-respect." },
+  { "id": 31, "quote": "Today, be gentle with your mind." },
+  { "id": 32, "quote": "You are allowed to pause and breathe." },
+  { "id": 33, "quote": "Savor the quiet moments." },
+  { "id": 34, "quote": "Refill your cup before pouring into others." },
+  { "id": 35, "quote": "Create a sanctuary within your day." },
+  { "id": 36, "quote": "Healing happens one small step at a time." },
+  { "id": 37, "quote": "Reset means choose again with wisdom." },
+  { "id": 38, "quote": "Calm is a superpower. Use it often." },
+  { "id": 39, "quote": "Make space for what matters." },
+  { "id": 40, "quote": "Pause: you deserve a reset." },
+  { "id": 41, "quote": "You are enough in this very moment." },
+  { "id": 42, "quote": "Gentle progress is still progress." },
+  { "id": 43, "quote": "A rested mind sees clearer paths." },
+  { "id": 44, "quote": "Let rest nourish your creativity." },
+  { "id": 45, "quote": "The quieter you become, the more you hear." },
+  { "id": 46, "quote": "Release what you cannot change." },
+  { "id": 47, "quote": "Find peace in simple routines." },
+  { "id": 48, "quote": "You don't need to have it all figured out." },
+  { "id": 49, "quote": "Resetting is an act of courage." },
+  { "id": 50, "quote": "Refocus on what fills you up." },
+  { "id": 51, "quote": "Rest sets the stage for growth." },
+  { "id": 52, "quote": "Nourish your body, calm your mind." },
+  { "id": 53, "quote": "Simplicity brings clarity." },
+  { "id": 54, "quote": "Take time to celebrate small wins." },
+  { "id": 55, "quote": "Allow yourself to be exactly where you are." },
+  { "id": 56, "quote": "A new day always brings new possibilities." },
+  { "id": 57, "quote": "Listen to the wisdom of rest." },
+  { "id": 58, "quote": "Find strength in gentle habits." },
+  { "id": 59, "quote": "Balance is built one choice at a time." },
+  { "id": 60, "quote": "Let intention guide your actions today." },
+  { "id": 61, "quote": "Create margin; it's where life grows." },
+  { "id": 62, "quote": "Reset with kindness toward yourself." },
+  { "id": 63, "quote": "Happiness grows from gratitude." },
+  { "id": 64, "quote": "Quiet the noise to hear your heart." },
+  { "id": 65, "quote": "Start gentle, stay consistent." },
+  { "id": 66, "quote": "You are free to change your mind." },
+  { "id": 67, "quote": "Comfort is not the enemy of progress." },
+  { "id": 68, "quote": "One breath can change your day." },
+  { "id": 69, "quote": "Be present—it's a present to yourself." },
+  { "id": 70, "quote": "Rest is not idleness; it's renewal." },
+  { "id": 71, "quote": "Invite calm into every corner of your life." },
+  { "id": 72, "quote": "Cultivate patience with your journey." },
+  { "id": 73, "quote": "Small rituals steady the soul." },
+  { "id": 74, "quote": "You are allowed to choose peace." },
+  { "id": 75, "quote": "Let curiosity replace judgment." },
+  { "id": 76, "quote": "One kind thought can reshape your day." },
+  { "id": 77, "quote": "Reset by returning to what you love." },
+  { "id": 78, "quote": "Allow yourself time to realign." },
+  { "id": 79, "quote": "Breathe deeply; you belong to yourself." },
+  { "id": 80, "quote": "Find beauty in the ordinary." },
+  { "id": 81, "quote": "Choose rest as an act of self-love." },
+  { "id": 82, "quote": "Each morning is a gentle invitation." },
+  { "id": 83, "quote": "Let today be kinder than yesterday." },
+  { "id": 84, "quote": "You grow through stillness as well as action." },
+  { "id": 85, "quote": "Release perfection—embrace presence." },
+  { "id": 86, "quote": "Clear your mind to open your heart." },
+  { "id": 87, "quote": "Focus on what you can control." },
+  { "id": 88, "quote": "Forgive to free your energy." },
+  { "id": 89, "quote": "Joy often hides in small pauses." },
+  { "id": 90, "quote": "Make room for gentle surprises." },
+  { "id": 91, "quote": "Soothe your soul with simple pleasures." },
+  { "id": 92, "quote": "A restful night fuels a brave day." },
+  { "id": 93, "quote": "Plant seeds of calm every morning." },
+  { "id": 94, "quote": "Clear space, clear mind." },
+  { "id": 95, "quote": "Your worth isn't measured by productivity." },
+  { "id": 96, "quote": "Embrace a pause before reacting." },
+  { "id": 97, "quote": "Gentle persistence builds resilience." },
+  { "id": 98, "quote": "Nourishment looks different every day." },
+  { "id": 99, "quote": "You are allowed to rest from trying." },
+  { "id": 100, "quote": "Cultivate kindness in your inner dialogue." },
+  { "id": 101, "quote": "Turn down the volume and tune into yourself." },
+  { "id": 102, "quote": "Resilience grows from restful recovery." },
+  { "id": 103, "quote": "Softness is strength in disguise." },
+  { "id": 104, "quote": "Start with one small, nourishing habit." },
+  { "id": 105, "quote": "Be present with what is, not what if." },
+  { "id": 106, "quote": "Quiet mornings set the tone for the day." },
+  { "id": 107, "quote": "Allow pauses to replenish your energy." },
+  { "id": 108, "quote": "You don't have to rush your healing." },
+  { "id": 109, "quote": "Celebrate progress, however small." },
+  { "id": 110, "quote": "Make peace with imperfect days." },
+  { "id": 111, "quote": "Let gratitude anchor your reset." },
+  { "id": 112, "quote": "Clarity often arrives after rest." },
+  { "id": 113, "quote": "Gentle boundaries protect your peace." },
+  { "id": 114, "quote": "Reset by simplifying one thing today." },
+  { "id": 115, "quote": "Listen more to your calm instincts." },
+  { "id": 116, "quote": "Give yourself permission to be human." },
+  { "id": 117, "quote": "Your rhythm is not anyone else's business." },
+  { "id": 118, "quote": "Rest deepens creativity." },
+  { "id": 119, "quote": "Savor the present; it is enough." },
+  { "id": 120, "quote": "Recharge so you can show up fully." },
+  { "id": 121, "quote": "Be gentle with the story you tell yourself." },
+  { "id": 122, "quote": "Today, choose ease over urgency." },
+  { "id": 123, "quote": "Comfort fuels courage in quiet ways." },
+  { "id": 124, "quote": "Let go and let yourself breathe." },
+  { "id": 125, "quote": "Renewal comes from small, steady rituals." },
+  { "id": 126, "quote": "Create a moment of calm in your day." },
+  { "id": 127, "quote": "Your pace is the right pace for you." },
+  { "id": 128, "quote": "Peace begins with one deliberate breath." },
+  { "id": 129, "quote": "Nurture your inner world with care." },
+  { "id": 130, "quote": "Shed what weighs you down gently." },
+  { "id": 131, "quote": "A new intention can reset your day." },
+  { "id": 132, "quote": "Slow breathing heals hurried hearts." },
+  { "id": 133, "quote": "You can rebuild with softness and grace." },
+  { "id": 134, "quote": "Habitual calm leads to courageous choices." },
+  { "id": 135, "quote": "Treat your mind like a friend today." },
+  { "id": 136, "quote": "Start again with compassion." },
+  { "id": 137, "quote": "A rested heart is a brave heart." },
+  { "id": 138, "quote": "Let presence be your practice." },
+  { "id": 139, "quote": "Cultivate stillness to find direction." },
+  { "id": 140, "quote": "Gentle resets change the long game." },
+  { "id": 141, "quote": "Accept where you are with tenderness." },
+  { "id": 142, "quote": "Rest yields clarity; clarity yields action." },
+  { "id": 143, "quote": "Make room for wonder in your day." },
+  { "id": 144, "quote": "Your heart knows the way—listen." },
+  { "id": 145, "quote": "Pause to honor how far you've come." },
+  { "id": 146, "quote": "Choose to show up for yourself today." },
+  { "id": 147, "quote": "Let stillness replenish your strength." },
+  { "id": 148, "quote": "Simplicity is a kind of power." },
+  { "id": 149, "quote": "Use quiet to rediscover your priorities." },
+  { "id": 150, "quote": "The smallest reset can spark big change." },
+  { "id": 151, "quote": "Clear intentions make rest intentional." },
+  { "id": 152, "quote": "Take a breath; you are doing enough." },
+  { "id": 153, "quote": "Allow space for gentle beginnings." },
+  { "id": 154, "quote": "Rest is an ingredient of resilience." },
+  { "id": 155, "quote": "Be curious about what calms you." },
+  { "id": 156, "quote": "Slow progress is steady progress." },
+  { "id": 157, "quote": "Find comfort in small acts of care." },
+  { "id": 158, "quote": "Resetting is choosing yourself again." },
+  { "id": 159, "quote": "Soothe your mind with kind thoughts." },
+  { "id": 160, "quote": "Let rest be your daily ritual." },
+  { "id": 161, "quote": "Your breath is your compass—use it." },
+  { "id": 162, "quote": "Stay open to gentle surprises." },
+  { "id": 163, "quote": "Nurture consistent moments of calm." },
+  { "id": 164, "quote": "You are worthy of peaceful moments." },
+  { "id": 165, "quote": "Choose presence over perfection today." },
+  { "id": 166, "quote": "A quiet heart can hear great ideas." },
+  { "id": 167, "quote": "Clear your schedule, clear your mind." },
+  { "id": 168, "quote": "Be kind to your future self by resting now." },
+  { "id": 169, "quote": "Rest and courage travel together." },
+  { "id": 170, "quote": "Savor a moment of calm right now." },
+  { "id": 171, "quote": "Reset with intention, not frustration." },
+  { "id": 172, "quote": "You can rebuild gently and wisely." },
+  { "id": 173, "quote": "Let love guide your rest." },
+  { "id": 174, "quote": "Center your day with a mindful breath." },
+  { "id": 175, "quote": "Patience plants the seeds of peace." },
+  { "id": 176, "quote": "Ease into change with a kind heart." },
+  { "id": 177, "quote": "Find stillness to make clearer choices." },
+  { "id": 178, "quote": "A rested mind finds creative solutions." },
+  { "id": 179, "quote": "Resetting is a form of strategy." },
+  { "id": 180, "quote": "Be gentle—growth takes time." },
+  { "id": 181, "quote": "Simplify today to amplify tomorrow." },
+  { "id": 182, "quote": "Honor your limits with compassion." },
+  { "id": 183, "quote": "Rest sharpens focus and fuels joy." },
+  { "id": 184, "quote": "Choose rest as a daily yes to yourself." },
+  { "id": 185, "quote": "Let integrity guide your resets." },
+  { "id": 186, "quote": "Quiet decisions become steady habits." },
+  { "id": 187, "quote": "Cultivate gratitude in quiet moments." },
+  { "id": 188, "quote": "A small pause can change your perspective." },
+  { "id": 189, "quote": "Lean into rest without guilt." },
+  { "id": 190, "quote": "Nourish your dreams with calm actions." },
+  { "id": 191, "quote": "Your rhythm matters—protect it." },
+  { "id": 192, "quote": "Resetting clears space for new energy." },
+  { "id": 193, "quote": "Honest pauses lead to honest choices." },
+  { "id": 194, "quote": "Soothe haste with steady breath." },
+  { "id": 195, "quote": "Be present; your life unfolds here." },
+  { "id": 196, "quote": "Let softness guide your strength." },
+  { "id": 197, "quote": "Celebrate the courage to begin again." },
+  { "id": 198, "quote": "Choose rest that restores your spirit." },
+  { "id": 199, "quote": "Mindful rest rebuilds resilience." },
+  { "id": 200, "quote": "Cherish small moments of calm today." },
+  { "id": 201, "quote": "Let gentle intentions steer your day." },
+  { "id": 202, "quote": "One deep breath is worth a thousand worries." },
+  { "id": 203, "quote": "Refocus on what fills you with light." },
+  { "id": 204, "quote": "Your steady steps create lasting change." },
+  { "id": 205, "quote": "Pause to reconnect with what matters." },
+  { "id": 206, "quote": "Be kind to yourself in transitions." },
+  { "id": 207, "quote": "Resetting is reclaiming your center." },
+  { "id": 208, "quote": "A calm mind makes wiser choices." },
+  { "id": 209, "quote": "Let gratitude soften the hard parts." },
+  { "id": 210, "quote": "Simple rhythms heal noisy days." },
+  { "id": 211, "quote": "Trust your inner compass; it knows the way." },
+  { "id": 212, "quote": "Find refuge in small, steady rituals." },
+  { "id": 213, "quote": "Space to breathe is space to be." },
+  { "id": 214, "quote": "Choose rest like it's part of your plan." },
+  { "id": 215, "quote": "Soft daily habits build strong lives." },
+  { "id": 216, "quote": "Celebrate slow, consistent progress." },
+  { "id": 217, "quote": "Turn down the noise and turn up presence." },
+  { "id": 218, "quote": "Give yourself permission to restore." },
+  { "id": 219, "quote": "Reset by doing one nourishing thing." },
+  { "id": 220, "quote": "Your calm is contagious—share it." },
+  { "id": 221, "quote": "Make room for rest in your schedule." },
+  { "id": 222, "quote": "Gentle consistency wins over flashy effort." },
+  { "id": 223, "quote": "A softer approach often yields better results." },
+  { "id": 224, "quote": "Quiet reflection births clarity." },
+  { "id": 225, "quote": "Honor small boundaries to protect peace." },
+  { "id": 226, "quote": "A rested mind imagines bolder dreams." },
+  { "id": 227, "quote": "Choose restoration as a daily practice." },
+  { "id": 228, "quote": "Let rest guide your next step." },
+  { "id": 229, "quote": "Move gently toward what matters most." },
+  { "id": 230, "quote": "Reset with a calm heart and clear mind." },
+  { "id": 231, "quote": "Find stillness to hear your true desires." },
+  { "id": 232, "quote": "Small acts of rest compound into wellbeing." },
+  { "id": 233, "quote": "Keep your inner world peaceful and kind." },
+  { "id": 234, "quote": "Your balance is worth defending." },
+  { "id": 235, "quote": "Let restful moments become your refuge." },
+  { "id": 236, "quote": "Simplify to amplify your presence." },
+  { "id": 237, "quote": "Be gentle with your plans and intentions." },
+  { "id": 238, "quote": "Rest strengthens resolve quietly." },
+  { "id": 239, "quote": "A pause is often the best response." },
+  { "id": 240, "quote": "Reconnect with yourself through silence." },
+  { "id": 241, "quote": "Your heartbeat is steady; align with it." },
+  { "id": 242, "quote": "Let little resets lead to big returns." },
+  { "id": 243, "quote": "Soothe your day with small gratitudes." },
+  { "id": 244, "quote": "A calm choice creates clearer results." },
+  { "id": 245, "quote": "Trust the process of gentle rebuilding." },
+  { "id": 246, "quote": "Rest is a radical act of care." },
+  { "id": 247, "quote": "Stay present and kind in every moment." },
+  { "id": 248, "quote": "Let simplicity be your guiding light." },
+  { "id": 249, "quote": "Cultivate calm, then act with clarity." },
+  { "id": 250, "quote": "Your sufficiency isn't tied to constant doing." },
+  { "id": 251, "quote": "Start fresh by honoring your needs." },
+  { "id": 252, "quote": "Be patient with your unfolding." },
+  { "id": 253, "quote": "A steady pace preserves your joy." },
+  { "id": 254, "quote": "Choose inner rest to meet outer challenges." },
+  { "id": 255, "quote": "Create gentle boundaries to protect your energy." },
+  { "id": 256, "quote": "Reset when you need it; it's wise." },
+  { "id": 257, "quote": "Let rest sharpen your focus, not dull it." },
+  { "id": 258, "quote": "Kind thoughts create kind days." },
+  { "id": 259, "quote": "Give yourself moments of mindful stillness." },
+  { "id": 260, "quote": "Rest renews courage for tomorrow." },
+  { "id": 261, "quote": "Cultivate habits that replenish you." },
+  { "id": 262, "quote": "Be gentle with the pace of your life." },
+  { "id": 263, "quote": "One calm choice can change a week." },
+  { "id": 264, "quote": "Let gratitude be your reset button." },
+  { "id": 265, "quote": "Lean into rest to find your center." },
+  { "id": 266, "quote": "Small acts of rest are investments in you." },
+  { "id": 267, "quote": "Breathe deeply—you're allowed to slow down." },
+  { "id": 268, "quote": "Choose presence; it's where life happens." },
+  { "id": 269, "quote": "Reset with a loving and patient heart." },
+  { "id": 270, "quote": "Rest is a foundation for brave choices." },
+  { "id": 271, "quote": "Savor stillness to renew your spirit." },
+  { "id": 272, "quote": "Clarity grows in the soil of rest." },
+  { "id": 273, "quote": "Let small rituals anchor your day." },
+  { "id": 274, "quote": "Be kind to your timeline." },
+  { "id": 275, "quote": "Reset gently and keep moving forward." },
+  { "id": 276, "quote": "Your body knows how to restore; listen." },
+  { "id": 277, "quote": "Give yourself permission to be calm." },
+  { "id": 278, "quote": "The simplest resets often work best." },
+  { "id": 279, "quote": "Let rest deepen your courage." },
+  { "id": 280, "quote": "Cultivate clarity through quiet moments." },
+  { "id": 281, "quote": "Daily stillness seeds long-term peace." },
+  { "id": 282, "quote": "A calm heart makes wiser choices." },
+  { "id": 283, "quote": "Choose small acts that restore you." },
+  { "id": 284, "quote": "Make compassion your daily reset." },
+  { "id": 285, "quote": "Ease into life with a gentle rhythm." },
+  { "id": 286, "quote": "Reset by simplifying one priority." },
+  { "id": 287, "quote": "Listen to your breath; it tells the truth." },
+  { "id": 288, "quote": "Slow down to reconnect with joy." },
+  { "id": 289, "quote": "Let calm be your starting point today." },
+  { "id": 290, "quote": "Nourish the roots to grow higher branches." },
+  { "id": 291, "quote": "Cultivate patience in your daily routine." },
+  { "id": 292, "quote": "Quiet courage builds steady progress." },
+  { "id": 293, "quote": "Find rest in ordinary, sacred moments." },
+  { "id": 294, "quote": "Move toward purpose with a rested mind." },
+  { "id": 295, "quote": "Surrender the rush; embrace the present." },
+  { "id": 296, "quote": "Gentle choices accumulate into strength." },
+  { "id": 297, "quote": "Be still and know your next step." },
+  { "id": 298, "quote": "Small rests prevent bigger breakdowns." },
+  { "id": 299, "quote": "Reset with kindness, not criticism." },
+  { "id": 300, "quote": "Your calm center is always accessible." },
+  { "id": 301, "quote": "Create space to hear your intuition." },
+  { "id": 302, "quote": "Rest is part of a sustainable life." },
+  { "id": 303, "quote": "Let tenderness lead your actions." },
+  { "id": 304, "quote": "Balance begins with one mindful choice." },
+  { "id": 305, "quote": "Make room for what restores you." },
+  { "id": 306, "quote": "Reset by simplifying your day." },
+  { "id": 307, "quote": "Gentle rest fuels fierce ambition." },
+  { "id": 308, "quote": "Your limits are signposts, not failures." },
+  { "id": 309, "quote": "Choose presence, then act with purpose." },
+  { "id": 310, "quote": "A calm morning echoes through the day." },
+  { "id": 311, "quote": "Reset with a grateful heart." },
+  { "id": 312, "quote": "Protect your peace as you would a friend." },
+  { "id": 313, "quote": "Slow, steady care changes everything." },
+  { "id": 314, "quote": "Find rest in small comforts." },
+  { "id": 315, "quote": "Let your breath be your anchor." },
+  { "id": 316, "quote": "Savor quiet to replenish your energy." },
+  { "id": 317, "quote": "Choose the gentler path when possible." },
+  { "id": 318, "quote": "Nourish your day with meaningful pauses." },
+  { "id": 319, "quote": "Be mindful: progress includes rest." },
+  { "id": 320, "quote": "Clear intention makes resets powerful." },
+  { "id": 321, "quote": "Let calm decisions lead your life." },
+  { "id": 322, "quote": "A rested spirit sees more possibilities." },
+  { "id": 323, "quote": "Reset by honoring your natural rhythm." },
+  { "id": 324, "quote": "Practice small acts of self-kindness." },
+  { "id": 325, "quote": "Find quiet strength in daily routines." },
+  { "id": 326, "quote": "Patience is the quiet companion of progress." },
+  { "id": 327, "quote": "Slow today so you can soar tomorrow." },
+  { "id": 328, "quote": "Let rest be an intentional habit." },
+  { "id": 329, "quote": "Breathe into the place that feels tight." },
+  { "id": 330, "quote": "Rest refreshes the reservoir of creativity." },
+  { "id": 331, "quote": "Make room for ease in your life." },
+  { "id": 332, "quote": "Quiet focus beats frantic motion." },
+  { "id": 333, "quote": "Reset by returning to your center." },
+  { "id": 334, "quote": "Honor tiny wins—they matter." },
+  { "id": 335, "quote": "A calm heart makes kinder choices." },
+  { "id": 336, "quote": "Cultivate stillness to renew energy." },
+  { "id": 337, "quote": "Give yourself time to breathe and be." },
+  { "id": 338, "quote": "Reset with clarity, not pressure." },
+  { "id": 339, "quote": "Let go of hurry; life isn't a race." },
+  { "id": 340, "quote": "Create a slower rhythm for lasting results." },
+  { "id": 341, "quote": "Be gentle—rest grows inner courage." },
+  { "id": 342, "quote": "Find quiet corners to recharge." },
+  { "id": 343, "quote": "Sustainability starts with restful choices." },
+  { "id": 344, "quote": "Make rest a habit, not a luxury." },
+  { "id": 345, "quote": "Resetting is reclaiming your calm center." },
+  { "id": 346, "quote": "Breathe and choose your next step." },
+  { "id": 347, "quote": "Gentle routines shape strong lives." },
+  { "id": 348, "quote": "Be present; your presence is a gift." },
+  { "id": 349, "quote": "Slow down to find deep answers." },
+  { "id": 350, "quote": "A rested mind navigates better choices." },
+  { "id": 351, "quote": "Let calmness be your first response." },
+  { "id": 352, "quote": "Protect your energy with gentle boundaries." },
+  { "id": 353, "quote": "Reset with small acts of care today." },
+  { "id": 354, "quote": "Savor stillness to find fresh perspective." },
+  { "id": 355, "quote": "Be patient; gentle steps lead far." },
+  { "id": 356, "quote": "Peace is a practice—practice it daily." },
+  { "id": 357, "quote": "Rest to restore your capacity to love." },
+  { "id": 358, "quote": "Let quiet be your daily teacher." },
+  { "id": 359, "quote": "Choose a steady rhythm over frantic bursts." },
+  { "id": 360, "quote": "Reset with intention and tender care." },
+  { "id": 361, "quote": "A calm mind invites creative solutions." },
+  { "id": 362, "quote": "Start small; consistency does the rest." },
+  { "id": 363, "quote": "Let your breath lead you to peace." },
+  { "id": 364, "quote": "Give yourself grace as you rebuild." },
+  { "id": 365, "quote": "Rest honors the work you've done." },
+  { "id": 366, "quote": "Slow choices preserve long-term joy." },
+  { "id": 367, "quote": "Reset by simplifying your intentions." },
+  { "id": 368, "quote": "Cultivate quiet to hear your wisdom." },
+  { "id": 369, "quote": "Gentle rest replenishes stubborn goals." },
+  { "id": 370, "quote": "Allow silence to reveal what matters." },
+  { "id": 371, "quote": "Nurture daily pauses for lasting well-being." },
+  { "id": 372, "quote": "Be kind to your restlessness; listen." },
+  { "id": 373, "quote": "Reset with a deep, intentional breath." },
+  { "id": 374, "quote": "Balance grows from small daily choices." },
+  { "id": 375, "quote": "Soothe your day with mindful breaks." },
+  { "id": 376, "quote": "Find resilience in moments of calm." },
+  { "id": 377, "quote": "Let gentle habits carry you forward." },
+  { "id": 378, "quote": "Choose clarity by making space for rest." },
+  { "id": 379, "quote": "Small routines protect your energy." },
+  { "id": 380, "quote": "A rested mind holds steady focus." },
+  { "id": 381, "quote": "Make stillness a daily anchor." },
+  { "id": 382, "quote": "Let gratitude guide your reset." },
+  { "id": 383, "quote": "Be gentle—your pace is sufficient." },
+  { "id": 384, "quote": "Rest renews your capacity to care." },
+  { "id": 385, "quote": "Clear space to make room for growth." },
+  { "id": 386, "quote": "Reset with softness and purpose." },
+  { "id": 387, "quote": "A calm heart creates brave action." },
+  { "id": 388, "quote": "Slowly build habits that restore you." },
+  { "id": 389, "quote": "Choose presence; let action follow." },
+  { "id": 390, "quote": "Find peace in small, steady steps." },
+  { "id": 391, "quote": "Let rest guide your creativity." },
+  { "id": 392, "quote": "Comfort and courage can coexist." },
+  { "id": 393, "quote": "Sustainability starts with restful choices." },
+  { "id": 394, "quote": "Pause to recognize your progress." },
+  { "id": 395, "quote": "Gentle reflection leads to better plans." },
+  { "id": 396, "quote": "Resetting is a practice of self-trust." },
+  { "id": 397, "quote": "Be kind to yourself—rest is essential." },
+  { "id": 398, "quote": "Small resets keep you aligned with purpose." },
+  { "id": 399, "quote": "Let quiet moments fill you with strength." },
+  { "id": 400, "quote": "A rested soul sees clearer horizons." },
+  { "id": 401, "quote": "Choose calm, then move with intention." },
+  { "id": 402, "quote": "Protect your peace as a precious resource." },
+  { "id": 403, "quote": "Savor a slow minute—it's transformative." },
+  { "id": 404, "quote": "Gentle rhythms build an enduring life." },
+  { "id": 405, "quote": "Reset by simplifying your expectations." },
+  { "id": 406, "quote": "Your calm is a gift to yourself and others." },
+  { "id": 407, "quote": "Be present; it's where healing begins." },
+  { "id": 408, "quote": "Take small rests to prevent big pauses." },
+  { "id": 409, "quote": "Let softness shape your resilience." },
+  { "id": 410, "quote": "Reset with compassion for your journey." },
+  { "id": 411, "quote": "Gentle pauses lead to clearer choices." },
+  { "id": 412, "quote": "Soothe worry with intentional breathing." },
+  { "id": 413, "quote": "Small daily comforts sustain big dreams." },
+  { "id": 414, "quote": "Let stillness restore your perspective." },
+  { "id": 415, "quote": "A calm choice can redirect your day." },
+  { "id": 416, "quote": "Pause to honor what you've learned." },
+  { "id": 417, "quote": "Resetting is a kind and strong act." },
+  { "id": 418, "quote": "Make rest a part of your success plan." },
+  { "id": 419, "quote": "Be patient; deeply rooted growth takes time." },
+  { "id": 420, "quote": "Let gratitude anchor your daily resets." },
+  { "id": 421, "quote": "Choose gentle habits that last." },
+  { "id": 422, "quote": "Find quiet strength in every breath." },
+  { "id": 423, "quote": "Reset by simplifying one commitment." },
+  { "id": 424, "quote": "Savor slow mornings when you can." },
+  { "id": 425, "quote": "Nurture calm; it's the soil of creativity." },
+  { "id": 426, "quote": "Rest replenishes the courage to continue." },
+  { "id": 427, "quote": "Keep your intentions simple and kind." },
+  { "id": 428, "quote": "Quiet focus outperforms frantic busyness." },
+  { "id": 429, "quote": "Let rest be the fuel for brave action." },
+  { "id": 430, "quote": "Small resets keep your purpose alive." },
+  { "id": 431, "quote": "Pause to celebrate how far you've come." },
+  { "id": 432, "quote": "Be gentle; your progress is real." },
+  { "id": 433, "quote": "Find peace in the rhythm of your day." },
+  { "id": 434, "quote": "Reset with one mindful, kind act." },
+  { "id": 435, "quote": "Sustained calm leads to sustainable growth." },
+  { "id": 436, "quote": "Let small comforts revive your spirit." },
+  { "id": 437, "quote": "Cultivate a quiet routine for clarity." },
+  { "id": 438, "quote": "Rest is an important part of success." },
+  { "id": 439, "quote": "Choose gentle boundaries to guard joy." },
+  { "id": 440, "quote": "Breathe, ground, and step forward gently." },
+  { "id": 441, "quote": "A calm start shapes a wiser day." },
+  { "id": 442, "quote": "Reset by giving yourself a simple gift: time." },
+  { "id": 443, "quote": "Let presence be the heart of your decisions." },
+  { "id": 444, "quote": "Make room for stillness in your schedule." },
+  { "id": 445, "quote": "Savor the pause—it's part of the process." },
+  { "id": 446, "quote": "Be patient with your own becoming." },
+  { "id": 447, "quote": "Reset with curiosity instead of judgment." },
+  { "id": 448, "quote": "Gentle rituals anchor the busiest days." },
+  { "id": 449, "quote": "Small acts of self-care lead to big returns." },
+  { "id": 450, "quote": "Let restful moments replenish your courage." },
+  { "id": 451, "quote": "Choose kindness toward your future self." },
+  { "id": 452, "quote": "Reset by centering on what truly matters." },
+  { "id": 453, "quote": "Quiet rest prepares you for bold steps." },
+  { "id": 454, "quote": "Soothe your day with mindful intention." },
+  { "id": 455, "quote": "Make stillness a generous habit." },
+  { "id": 456, "quote": "Rest fuels resilience in subtle ways." },
+  { "id": 457, "quote": "Pause to acknowledge your progress." },
+  { "id": 458, "quote": "Let calmness guide your next move." },
+  { "id": 459, "quote": "Find refuge in soft, steady routines." },
+  { "id": 460, "quote": "Resetting is a brave, loving choice." },
+  { "id": 461, "quote": "Be gentle; restoration takes time." },
+  { "id": 462, "quote": "Choose small resets that sustain you." },
+  { "id": 463, "quote": "Let quiet moments reveal new clarity." },
+  { "id": 464, "quote": "Rest is an investment in your tomorrow." },
+  { "id": 465, "quote": "Simplify to create space for joy." },
+  { "id": 466, "quote": "Find balance by protecting your time." },
+  { "id": 467, "quote": "A calm heart makes steady decisions." },
+  { "id": 468, "quote": "Reset with compassion and clear boundaries." },
+  { "id": 469, "quote": "Let mindful pauses reshape your week." },
+  { "id": 470, "quote": "Savor the slow moments; they matter." },
+  { "id": 471, "quote": "Gentle consistency outlasts intense bursts." },
+  { "id": 472, "quote": "Breathe into the place that needs care." },
+  { "id": 473, "quote": "Reset by returning to your values." },
+  { "id": 474, "quote": "Small rests create large reserves." },
+  { "id": 475, "quote": "Let your calm be your compass." },
+  { "id": 476, "quote": "Choose moments of stillness each day." },
+  { "id": 477, "quote": "Find strength in gentle beginnings." },
+  { "id": 478, "quote": "Reset with gratitude and steady breath." },
+  { "id": 479, "quote": "Protect your peace—it guides your choices." },
+  { "id": 480, "quote": "Soothe urgency with slow, kind action." },
+  { "id": 481, "quote": "Let small rituals nurture your resilience." },
+  { "id": 482, "quote": "Be kind to yourself in every season." },
+  { "id": 483, "quote": "Reset by simplifying what drains you." },
+  { "id": 484, "quote": "Quiet focus builds lasting momentum." },
+  { "id": 485, "quote": "Rest prepares you to meet challenge with grace." },
+  { "id": 486, "quote": "Choose gentle progress over harsh speed." },
+  { "id": 487, "quote": "Let stillness restore your perspective." },
+  { "id": 488, "quote": "Make rest a daily, loving intention." },
+  { "id": 489, "quote": "Savor quiet; it refreshes the soul." },
+  { "id": 490, "quote": "Reset with a warm, forgiving heart." },
+  { "id": 491, "quote": "Slow down to hear your inner wisdom." },
+  { "id": 492, "quote": "Gentle choices compound into great change." },
+  { "id": 493, "quote": "Give yourself time to breathe and heal." },
+  { "id": 494, "quote": "Let calmness be the substrate of action." },
+  { "id": 495, "quote": "Protect small pockets of daily peace." },
+  { "id": 496, "quote": "Reset with intention, patience, and care." },
+  { "id": 497, "quote": "A rested life is a sustainable life." },
+  { "id": 498, "quote": "Small resets keep your vision clear." },
+  { "id": 499, "quote": "Be gentle—you're doing the best you can." },
+  { "id": 500, "quote": "Your light shines brightest when you lift others." }
 ]

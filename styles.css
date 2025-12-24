@@ -1,1 +1,42 @@
 
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background: #faf7f5;
+}
+
+.tabs {
+  display: flex;
+  overflow-x: auto;
+  background: white;
+  border-bottom: 1px solid #ddd;
+}
+
+.tabs button {
+  padding: 12px 16px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.tabs button:hover {
+  background: #f0ece9;
+}
+
+.month-container {
+  padding: 20px;
+}
+
+.month {
+  display: none;
+  min-height: 70vh;
+  border-radius: 12px;
+  padding: 20px;
+  background-size: cover;
+  background-position: center;
+}
+
+.month.active {
+  display: block;
+}
